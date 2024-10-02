@@ -38,6 +38,8 @@ My Partners’: https://github.com/goodddybag/Task2-G3/commit/9651b2c860a0e054f0
    <br>
 https://github.com/goodddybag/Task2-G3
 
+https://github.com/MaryBamisile/Task2-G3Women
+
 
 
 
