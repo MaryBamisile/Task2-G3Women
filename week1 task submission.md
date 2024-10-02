@@ -22,6 +22,8 @@ Forked: https://github.com/goodddybag/Task2-G3Women
 4.	Submit a screenshot showing commit history with at least 3 commits from each partner.
  ![image](https://github.com/user-attachments/assets/b1ed3a06-723b-4007-bad4-1a7b2c11f1e8)
 
+![WhatsApp Image 2024-10-02 at 22 34 30_171a11c9](https://github.com/user-attachments/assets/c0e996f1-10b3-4e45-8607-3b6a1d0182e2)
+
  <br>
 5.	Provide links to each partner’s pull request, and include a screenshot of the review comments.
 (https://github.com/MaryBamisile/Task2-G3Women/pull/1)
