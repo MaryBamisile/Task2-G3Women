@@ -15,7 +15,8 @@ Forked: https://github.com/goodddybag/Task2-G3Women
 ![image](https://github.com/user-attachments/assets/4bcfa88e-fd0d-4fcb-bdd7-0bec91d946dc)
   <br>
 3.	Submit the markdown file with your Learnings from Week 1.
-Task2-G3Women/week1-learnings.md at main · MaryBamisile/Task2-G3Women (github.com)
+<br>
+(https://github.com/MaryBamisile/Task2-G3Women/blob/main/week1-learnings.md)
  <br>
   <br>
 4.	Submit a screenshot showing commit history with at least 3 commits from each partner.
